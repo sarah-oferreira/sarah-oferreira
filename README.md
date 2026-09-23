@@ -38,17 +38,17 @@ Passionate about technology, software engineering, and creating new solutions fr
 ```text
   ┌────────────────────────────────────────────────────────────────────────┐
   │                                                                        │
-  │     DATA ENGINE & ARCHITECTURE                                        │
+  │     DATA ENGINE & ARCHITECTURE                                         │
   │   ├── Relational Databases (SQL / T-SQL)                               │
   │   ├── Data Modeling & Query Optimization                               │
   │   └── Data Pipelines & Analysis                                        │
   │                                                                        │
-  │     PROCESS AUTOMATION                                                │
-  │   ├── Workflow Automation (n8n & Webhooks)                            │
+  │     PROCESS AUTOMATION                                                 │
+  │   ├── Workflow Automation (n8n & Webhooks)                             │
   │   ├── REST API Integrations                                            │
   │   └── Backend Logic & Scripting (Python)                               │
   │                                                                        │
-  │    ARTIFICIAL INTELLIGENCE & SOFTWARE ENGINEERING                    │
+  │    ARTIFICIAL INTELLIGENCE & SOFTWARE ENGINEERING                      │
   │   ├── AI Workflows & LLM Integration                                   │
   │   ├── Full-Stack Development Concepts                                  │
   │   └── Clean Architecture & System Design                               │
