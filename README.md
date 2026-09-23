@@ -4,6 +4,9 @@
 Passionate about technology, software engineering, and creating new solutions from scratch.
 
 ---
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-oliveira-ferreira-a408133a5/)
 
 ### About Me
 
@@ -54,7 +57,5 @@ Passionate about technology, software engineering, and creating new solutions fr
   │   └── Clean Architecture & System Design                               │
   │                                                                        │
   └────────────────────────────────────────────────────────────────────────┘
+''''
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-oliveira-ferreira-a408133a5/)
