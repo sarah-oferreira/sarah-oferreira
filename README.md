@@ -33,21 +33,27 @@ Passionate about technology, software engineering, and creating new solutions fr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+####Areas of Interest & Expertise
 
-### GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah-oferreira&show_icons=true&theme=dark&hide_border=true" alt="Sarah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-oferreira&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarah-oferreira&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
+```text
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │                                                                        │
+  │     DATA ENGINE & ARCHITECTURE                                        │
+  │   ├── Relational Databases (SQL / T-SQL)                               │
+  │   ├── Data Modeling & Query Optimization                               │
+  │   └── Data Pipelines & Analysis                                        │
+  │                                                                        │
+  │     PROCESS AUTOMATION                                                │
+  │   ├── Workflow Automation (n8n & Webhooks)                            │
+  │   ├── REST API Integrations                                            │
+  │   └── Backend Logic & Scripting (Python)                               │
+  │                                                                        │
+  │    ARTIFICIAL INTELLIGENCE & SOFTWARE ENGINEERING                    │
+  │   ├── AI Workflows & LLM Integration                                   │
+  │   ├── Full-Stack Development Concepts                                  │
+  │   └── Clean Architecture & System Design                               │
+  │                                                                        │
+  └────────────────────────────────────────────────────────────────────────┘
 
 ### Connect with Me
 
