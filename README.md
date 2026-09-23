@@ -36,7 +36,7 @@ Passionate about technology, software engineering, and creating new solutions fr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-####Areas of Interest & Expertise
+#### Areas of Interest & Expertise
 
 ```text
   ┌────────────────────────────────────────────────────────────────────────┐
@@ -57,5 +57,5 @@ Passionate about technology, software engineering, and creating new solutions fr
   │   └── Clean Architecture & System Design                               │
   │                                                                        │
   └────────────────────────────────────────────────────────────────────────┘
-''''
+
 
